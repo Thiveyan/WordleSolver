@@ -1,5 +1,5 @@
 
-#constants to hold strings and lists
+#variables to hold strings and lists
 guess = "" 
 feedback = ""
 guess_list = []
